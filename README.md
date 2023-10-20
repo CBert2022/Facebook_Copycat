@@ -1,5 +1,6 @@
 # Facebook_Copycat
 
+- still in progess! Next feature profile page.
 - An other social app...
 - Build with HTML, CSS & Javascript
 - Light/ Dark mode switch
